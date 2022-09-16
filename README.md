@@ -1,2 +1,2 @@
 # Assignment-KNN
-Prepare a model for Glass and Zoo classification using KNN
+Prepare a model for Glass classification using KNN and classify animals into categories.
